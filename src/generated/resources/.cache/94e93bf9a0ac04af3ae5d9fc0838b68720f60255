@@ -1,0 +1,13 @@
+// 1.21	2024-09-12T11:54:31.585583	Block States: ear
+9a3633033d7ecf74b46f29b81813b18c63f3d304 assets/ear/blockstates/deepslate_ruby_ore.json
+34722b84c3193c3c928cfdec6bbca857db78618f assets/ear/blockstates/raw_ruby_block.json
+a0425e1a12437921af787bfde562810307215e3d assets/ear/blockstates/ruby_block.json
+e0a0743c77970303b9ba25994e1acc1302c25552 assets/ear/blockstates/ruby_ore.json
+2028d066132612186466a6a777d4f8f52f06df23 assets/ear/models/block/deepslate_ruby_ore.json
+f013022dca33c8f7e1c443afba876096f9642d00 assets/ear/models/block/raw_ruby_block.json
+944da25339e2b90d0baed84b31a665e015e9efa4 assets/ear/models/block/ruby_block.json
+2546fa0387df3cea225becdc9b23b87fb40e4e85 assets/ear/models/block/ruby_ore.json
+5c373a31fd84e746c9523bf060324485ae16199c assets/ear/models/item/deepslate_ruby_ore.json
+b4d2b3449f75d9d9283b087bdb95abe20d6a0857 assets/ear/models/item/raw_ruby_block.json
+6c66c39db69ead89c2c65681e393f1457b7f6022 assets/ear/models/item/ruby_block.json
+9b77168043d6b31a0ef733669716083d0794e749 assets/ear/models/item/ruby_ore.json

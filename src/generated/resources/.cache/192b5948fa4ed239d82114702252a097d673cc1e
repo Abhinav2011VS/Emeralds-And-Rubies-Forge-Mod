@@ -1,0 +1,4 @@
+// 1.21	2024-09-12T11:54:31.5825914	Tags for minecraft:block mod id ear
+57802d0304c274bc6a9fd1ac7b028b469ce3bb69 data/minecraft/tags/block/mineable/pickaxe.json
+c7b8241c235104657d6fa5365828497fb0559699 data/minecraft/tags/block/needs_diamond_tool.json
+01e31eae9d081aefbb9fd4b962143c675275b6d9 data/minecraft/tags/block/needs_iron_tool.json

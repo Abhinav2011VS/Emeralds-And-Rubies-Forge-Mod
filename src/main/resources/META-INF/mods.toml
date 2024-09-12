@@ -1,0 +1,34 @@
+# Basic information about your mod
+
+# The mod loader type. For Forge mods, use "javafml".
+modLoader = "javafml"
+
+# The version of Forge your mod is compatible with.
+loaderVersion = "${loader_version_range}"
+
+# The license for your mod.
+license = "${mod_license}"
+
+# Mod details
+[[mods]]
+modId = "${mod_id}" # Unique identifier for your mod
+version = "${mod_version}" # Version number of your mod
+displayName = "${mod_name}" # Name displayed in mod lists
+logoFile = "assets/ear/icon.png" # Logo file for display (optional)
+authors = "${mod_authors}" # Mod authors
+description = '''${mod_description}''' # Description of your mod
+
+# Dependencies
+[[dependencies."${mod_id}"]]
+modId = "forge" # Forge mod ID
+mandatory = true # Is Forge required?
+versionRange = "${forge_version_range}" # Compatible Forge versions
+ordering = "NONE" # Load order (default is "NONE")
+side = "BOTH" # Applicable sides (client/server/both)
+
+[[dependencies."${mod_id}"]]
+modId = "minecraft" # Minecraft mod ID
+mandatory = true # Is Minecraft required?
+versionRange = "${minecraft_version_range}" # Compatible Minecraft versions
+ordering = "NONE" # Load order (default is "NONE")
+side = "BOTH" # Applicable sides (client/server/both)
